@@ -1,0 +1,10 @@
+.home {
+    margin:0;
+    background:
+        linear-gradient(
+                rgba(0,0,0,0.45),
+                rgba(0,0,0,0.75)
+        ),
+        url("../images/backgrounds/background-dota 2.webp") center / cover no-repeat;
+    color:white;
+}
