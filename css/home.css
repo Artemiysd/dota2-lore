@@ -1,10 +1,13 @@
-.home {
-    margin:0;
+.home-page{
     background:
-        linear-gradient(
-                rgba(0,0,0,0.45),
-                rgba(0,0,0,0.75)
-        ),
-        url("../images/backgrounds/background-dota 2.webp") center / cover no-repeat;
+            linear-gradient(
+                    rgba(0,0,0,0.45),
+                    rgba(0,0,0,0.75)
+            ),
+            url("../images/backgrounds/background-dota 2.webp") center / cover no-repeat;
     color:white;
+    min-height: 70vh;
+}
+.home {
+    padding: 100px 40px;
 }
